@@ -1,4 +1,4 @@
-# Final-Project-ODC-Ismailia
+# Final-Project-ODC-Ismailia (Hackathon)
 I am thrilled to announce that I have successfully completed the Techie Kit Program In Software Engineering at Orange Digital Center Egypt with AMIT Learning Covering the following topics:
 
 1- C++ Programming Language
